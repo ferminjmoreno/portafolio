@@ -1,0 +1,58 @@
+.lado_izquierdo{
+    top: 1px;
+    right:1px;
+    width:236px;
+    height:260px;
+}
+.title{
+    font-family: 'Indie Flower', cursive;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    width: 200px;
+    height: 100px;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 350px;
+    }
+.formulario{
+    top:80px;
+    left:250px;
+    position:absolute;
+    display:inline-block;
+}
+input{
+    border-style: none none ridge none;
+    line-height: 25px;
+}
+i{
+    color:cyan;
+}
+.grey-btn{
+	/*your code here*/
+}
+.grey-btn:hover{
+  /*your code here for the hover state*/ 
+}
+a{
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration:none;
+  background-color: #3d3d3c;
+  color:white;
+}
+a:hover{
+  background-color: #c9c7c5;
+}
+
+.boton{
+    top:50px;
+    left:100px;
+    width:400px;
+    text-align: center;
+}
+
