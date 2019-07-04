@@ -50,7 +50,7 @@ body{
 .pie{
   background:white;
   position:relative;
-  height: 40px;
+  height: 50px;
   line-height: 40px;
   padding-left: 10px;
   font-size:10px;
@@ -63,4 +63,7 @@ body{
 .espacios{
   position:relative;
   height:50px;
+}
+.articulostres {
+  background: blue;
 }
